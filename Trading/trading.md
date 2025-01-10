@@ -1,4 +1,6 @@
 # Trading
+Especulacion del Precio en el futuro, de algun bien o activo, para 
+sacar beneficio de la compra y la venta de estos mismos.
 
 ## Oferta/Demanda
 
@@ -65,6 +67,14 @@ El Cambio de los ultimos dos digitos seria de 51 a 61 es decir 1 pip.
 ## Mercado (Financiero)
 Es un espacio fisico o virtual, fonfr se compran y venden activos 
 financieros y se establece precios de los mismos.
+
+**Tipos de mercado segun si estan o no regulados**
+
+* Mercado Vursatil: Regulado, los patrones son mas respetados, pero 
+tiene horario. 
+
+* Mercado OTC: No regulado y se puede operar a cualquier hora.
+
 
 ## Tipos de Mercados
 * **Mercado de divisas:** Se compran y venden monedas de diferentes 
@@ -175,6 +185,40 @@ noticias.
 Hay diferentes tipos de graficas, pero la q mas se utiliza en este 
 analisis es las velas japonesas.
 
+# Porque son mas utlilizados las velas japonesas (Candlestick)
+Porque a comparacion de otras diferentes graficas son las que 
+brindadan mas informacion.
+
+**Información que da una Vela Japonesa:**
+
+* Precio de Maximos.
+* Precio de Minimos.
+* Precio de Apertura.
+* Precio de Cierre.
+
+**Partes de una Vela Japonesa**
+
+* Sombra de una vela o Mechas.
+* Cuerpo de una vela o Volumen.
+
+**Tipos de Velas**
+
+1. Momentum: Vela con mucho volumen y poca sombra. Muestra fortaleza 
+en el mercado es decir que esta vela es alsista la tendencia se mueve 
+con fuerza.
+
+2. Desaceleración: Mucha Sombra poco Volumen. Indica falta de claridad
+o de direccion (indireccion).
+
+3. Reversión: Llamadas en operaciones binarias velas de rechazo. Y se 
+trata de una vela que comienzan en una direccion y termina ganando,
+el contrario, Ejemplo si es alcista termina hacia la baja.
+
+# GAP
+Es cuando el precio del activo cierra o abre en un precio diferente
+del cierre de la anterior vela, deja una especie de vacio que se le 
+conoce como gap.
+
 ## Soportes y resistencias
 Son barras en la grafica q simulan un piso y un techo, donde el precio 
 se mueve pero repota en estas lineas de soportes y resistencias.
@@ -269,6 +313,26 @@ ellos descansar el sab y dom.
 los dias festivos, tampoco operar, y tampoco cuando estemos, enojados,
 cansados o frustrados.
 
-
 ## Forex
 For-ex = For-eign Ex-chance = Divisas
+
+## Manipulacion del Mercado
+Es cuando una entidad o persona, toma acciones que pueden intervenir 
+en el mercado fuertemente.
+
+# Liquidez
+Es el dinero de los inversores de compra y venta.
+Mirar(teoria de la liquidez).
+
+Para trading de largo plazo, soportes y resistencias, y para trading
+mas frecuente a un corto plazo es mejor utilizar teoria de la 
+liquidez.
+
+# Patrones de Vela
+1. Envolvente
+2. Doji
+3. Low Test
+3. hight Test
+4. Tweezer Bottom
+4. Tweezer Top
+
