@@ -1,0 +1,1 @@
+Guama Card: Para crear historial crediticia
