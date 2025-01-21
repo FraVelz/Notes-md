@@ -30,7 +30,8 @@ cuando varias velas tienen por ejemplo una mecha hacia arriba, y la
 siguiente sube quiere decir q igualmente como las otras va a bajar 
 tambien.
 
-Mercado de New York (hasta 1h despues de comenzar el mercado de Sydney, solo en Invierno)
+Mercado de New York (hasta 1h despues de comenzar el mercado de 
+Sydney, solo en Invierno)
 
 Hora Recomendada: 11:00am-3:00pm (Hora Mexico GMT-7)
 Colombia GMT-6 (+1h => Mexico)
@@ -48,7 +49,8 @@ Euro Dolar neozelandes
 # Hombro cabeza hombro
 Es cuando un grafico esta en tendencia bajista, y sube, vuelve a caer,
 por la tendencia, generando un pico hacia abajo continuando la 
-tendencia, y luego cambia de tendencia hacia arriba y genera el mismo patron.
+tendencia, y luego cambia de tendencia hacia arriba y genera el mismo 
+patron.
 
 graficamente seria asi,
 \
@@ -57,10 +59,12 @@ graficamente seria asi,
      \/
 
 En la ultima parte de este patron si se ubica una paridad de vela, 
-en el 1er pico hacia abajo (\/) colocamos un soporte, y si el segundo pico toca esta linea es posible que suceda un patron de paridades de 
+en el 1er pico hacia abajo (\/) colocamos un soporte, y si el segundo 
+pico toca esta linea es posible que suceda un patron de paridades de 
 vela.
 
 # Patron de Retroceso
 Se forma con un impulso de varias velas continuas hacia la tendencia
 alsista, es decir velas verdes, y luego una vela roja que baja mas o 
-menos al 50 % del movimiento anterior, es posible que despues de esta vela roja, se forma una vela verde hacia la alsa.
+menos al 50 % del movimiento anterior, es posible que despues de esta 
+vela roja, se forma una vela verde hacia la alsa.
